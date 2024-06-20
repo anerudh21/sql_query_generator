@@ -1,4 +1,3 @@
-# sql_query_generator
 # SQL Query Generator with Generative AI
 
 Welcome to the SQL Query Generator project! This application leverages the Gemini AI model to simplify the process of writing SQL queries. Users can input natural language prompts to generate SQL queries, along with explanations and expected outputs. Built with Streamlit, the app provides a user-friendly web interface for interacting with the AI model.
